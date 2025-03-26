@@ -12,7 +12,6 @@ This is a **Personalized News Aggregator** that fetches news articles from vario
 - **Sentiment Analysis** – Categorizes news as positive, negative, or neutral.  
 - **Responsive UI** – Tailwind CSS for optimized mobile & desktop experience.  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -32,8 +31,30 @@ This is a **Personalized News Aggregator** that fetches news articles from vario
 - **Basic sentiment analysis** to classify news.  
 
 
----
-
 ## 📂 Project Structure
 
+PROJECT_NEWS/  
+│── backend/  
+│   ├── models/  
+│   ├── routes/  
+│   ├── server.js  
+│── project-news/  
+│   ├── src/  
+│   │   ├── assets/  
+│   │   ├── components/  
+│   │   │   ├── firebase/  
+│   │   │   ├── auth.js  
+│   │   ├── pages/  
+│   │   ├── App.jsx  
+│   │   ├── index.css  
+│── README.md 
+
+
+## 📸 Screenshots
+
+**Google Drive URL** : https://shorturl.at/hIWai
+
+## 🎥 Demo Video
+
+**Google Drive URL** : https://shorturl.at/IEi5B
 
